@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jsapi">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Новая папка/freetts-1.2/lib/jsapi.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Новая папка/freetts-1.2/lib/mbrola.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Новая папка/freetts-1.2/lib/en_us.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Новая папка/freetts-1.2/lib/freetts-jsapi10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
